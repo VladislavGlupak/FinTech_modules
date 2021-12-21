@@ -1,0 +1,17 @@
+User stories:
+
+* As a lender, I want to filter the bank list by comparing the customer's desired loan against the bank's maximum loan size so that we can know which banks offer the loan amount requested by the customer.
+
+  * Given that I want to filter the bank list according to the customer's desired loan, when there are no banks that offer the loan amount request, then the application should return an empty list.
+
+* As a lender, I want to filter the bank list by comparing if the customer's credit score is equal to or greater than the minimum allowed credit score defined by the bank so that we can know which banks are willing to offer a loan to the customer.
+
+  * Given that I want to filter the bank list according to the customer's credit score, when there are no banks that accept the customer's credit score, then the application should return an empty list.
+
+* As a lender, I want to filter the bank list by comparing if the customer's debt-to-income is equal to or less than the maximum debt-to-income ratio allowed by the bank so that we can assess if the customer will have payment capacity according to the bank's criteria.
+
+  * Given that I want to filter the bank list according to the customer's debt-to-income ratio, when there are no banks that accept the customer's debt-to-income ratio, then the application should return an empty list.
+
+* As a lender, I want to filter the bank list by comparing if the customer's loan-to-value is equal to or less than the maximum loan-to-value ratio allowed by the bank so that we can assess if the customer's home value is worth enough as an asset to secure the loan.
+
+  * Given that I want to filter the bank list according to the customer's loan-to-value ratio, when there are no banks that accept the customer's loan-to-value ratio, then the application should return an empty list.

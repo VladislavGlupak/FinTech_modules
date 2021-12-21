@@ -1,0 +1,9 @@
+User stories:
+
+* As a lender, I want to calculate the monthly debt-to-income ratio so that we can assess the borrower's ability to repay the loan.
+
+  * Given that I want to calculate the monthly debt-to-income ratio, when the monthly debt is less than zero or the monthly income is equal to or less than zero, then the application should raise an error.
+
+* As a lender, I want to calculate the loan-to-value ratio so that we can evaluate the risk of lending money to the borrower.
+
+  * Given that I want to calculate the loan-to-value ratio, when the loan amount or the home value are equal to zero, then the application should raise an error.
