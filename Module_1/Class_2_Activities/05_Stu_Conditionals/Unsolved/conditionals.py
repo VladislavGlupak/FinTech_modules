@@ -1,7 +1,7 @@
 # 1.
 x = 5
 y = 10
-if 2 * x > 10:
+if 2 * x > y:
     print("Question 1 works!")
 else:
     print("Oooo needs some work")
