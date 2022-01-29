@@ -1,0 +1,50 @@
+   14  git status
+   15  cd Module_6/Starter_Code/
+   16  ls
+   17  ls
+   18  git clone https://github.com/VladislavGlupak/Housing-Rental-Analysis-for-San-Francisco.git
+   19  git status
+   20  git add .
+   21  git commit -m "adding starter fies for challenge 6"
+   22  git push
+   23  git status
+   24  git add .
+   25  git commit -m "answer for 1 question"
+   26  git push
+   27  git status
+   28  git add .
+   29  git commit -m "delete extra files"
+   30  git push
+   31  git status
+   32  git add .
+   33  git commit -m "fix typos"
+   34  git push
+   35  git status
+   36  git add .
+   37  git commit -m "generate images"
+   38  git push
+   39  cd ../..
+   40  cd ../UCB-VIRT-FIN-PT-12-2021-U-B/
+   41  git status
+   42  git pull
+   43  git pull
+   44  git stash
+   45  git pull
+   46  св юю
+   47  cd ..
+   48  cd FinTech_modules/Module_6
+   49  cd Starter_Code/
+   50  git status
+   51  git add .
+   52  git commit -m "answering questions"
+   53  git push
+   54  git status
+   55  git add .
+   56  git commit -m "removing extra data"
+   57  git push
+   58  code .
+   59  git status
+   60  git add .
+   61  git commit -m "adding README"
+   62  git push
+   63  history 50 > history.txt
