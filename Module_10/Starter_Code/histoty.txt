@@ -1,0 +1,26 @@
+    1  . code
+    2  conda activate dev
+    3  git clone https://github.com/VladislavGlupak/Crypto-Clustering.git
+    4  git status
+    5  git add .
+    6  git commit -m "push initial files"
+    7  git push
+    8  git status
+    9  git add .
+   10  git commit -m "composing elbow curves"
+   11  git push
+   12  git add .
+   13  git commit -m "adding answer for question"
+   14  git push
+   15  git add .
+   16  git commit -m "remove extra data"
+   17  git push
+   18  code .
+   19  git status
+   20  git add .
+   21  git commit -m "create readme"
+   22  git push
+   23  git add .
+   24  git commit -m "update readme, adding images"
+   25  git push
+   26  history 50 > histoty.log
