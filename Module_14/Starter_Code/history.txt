@@ -1,0 +1,22 @@
+    1  . code
+    2  conda activate dev
+    3  git clone https://github.com/VladislavGlupak/Machine-Learning-Trading-Bot.git
+    4  git status
+    5  git add .
+    6  git commit -m "initial commit"
+    7  got push
+    8  git push
+    9  git add .
+   10  git commit -m "update challenge file"
+   11  git push
+   12  git add .
+   13  git commit -m "fix errors"
+   14  git push
+   15  git add .
+   16  git commit -m "remove extra data"
+   17  git push
+   18  code .
+   19  git add .
+   20  git commit -m "update readme"
+   21  git push
+   22  history 50 > history.txt
